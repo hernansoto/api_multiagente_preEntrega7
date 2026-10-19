@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "DEMO-STARTER-2026",
+    "title": "Ficha interna simulada: plan Starter, septiembre de 2026",
+    "published_at": "2026-09-30",
+    "origin": "simulated_internal_dataset",
+    "content": "Plan Starter: precio mensual ARS 100000, costo variable por cliente ARS 45000, 120 clientes activos, churn mensual 4.2%.",
+    "metrics": {
+      "plan": "Starter",
+      "unit_price": 100000,
+      "unit_variable_cost": 45000,
+      "active_customers": 120,
+      "monthly_churn_pct": 4.2
+    }
+  },
+  {
+    "source_id": "DEMO-GROWTH-2026",
+    "title": "Ficha interna simulada: plan Growth, septiembre de 2026",
+    "published_at": "2026-09-30",
+    "origin": "simulated_internal_dataset",
+    "content": "Plan Growth: precio mensual ARS 180000, costo variable por cliente ARS 72000, 80 clientes activos, churn mensual 2.5%.",
+    "metrics": {
+      "plan": "Growth",
+      "unit_price": 180000,
+      "unit_variable_cost": 72000,
+      "active_customers": 80,
+      "monthly_churn_pct": 2.5
+    }
+  },
+  {
+    "source_id": "DEMO-CONTEXT-2026",
+    "title": "Glosario interno simulado: criterios de rentabilidad",
+    "published_at": "2026-09-30",
+    "origin": "simulated_internal_dataset",
+    "content": "Margen bruto porcentual = (precio - costo variable) / precio * 100. Contribución bruta mensual estimada = (precio - costo variable) * clientes activos. No incluye gastos fijos ni impuestos.",
+    "metrics": null
+  }
+]
